@@ -1,2 +1,2 @@
 # Repositorio-de-prueba
-repositorio del curso git y github
+Repositorio del curso git y github de Udemy para probar fork and pull request
